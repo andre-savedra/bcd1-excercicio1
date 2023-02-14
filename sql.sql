@@ -1,3 +1,4 @@
+/* mudou o arquivo! */
 create database nutrition1;
 
 create table user(
